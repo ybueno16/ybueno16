@@ -1,4 +1,4 @@
-﻿# 💫 About Me:
+# 💫 About Me:
 - 👋 Olá, eu sou Yuri Bueno<br>- 👀 Tenho interesse em Java, Flutter, Spring Boot e C#<br>- 📚 Estou estudando Spring Boot e Flutter
 
 
@@ -12,13 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ybueno16&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybueno16&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ybueno16&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
