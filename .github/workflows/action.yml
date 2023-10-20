@@ -16,24 +16,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           GITHUB_TOKEN: ${{ github.token }}
           ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: ybueno16/ybueno16 # optional
           ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
+
           BLOCKS: ░ # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 5 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: ybueno16 # optional
-          AUTHOR_EMAIL: yuribueno27@gmail.com # optional
-          # you can populate email-id with secretes instead
+
