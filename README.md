@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ybueno16&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ybueno16&theme=radical&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ybueno16&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybueno16&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
