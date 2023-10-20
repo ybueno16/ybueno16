@@ -14,6 +14,7 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          GITHUB_TOKEN: ${{ github.token }}
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: ybueno16/ybueno16 # optional
