@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: ybueno16/readme@master
+      - uses: ybueno16/ybueno16@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           GITHUB_TOKEN: ${{ github.token }}
