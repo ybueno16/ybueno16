@@ -11,7 +11,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: ybueno16/readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           GITHUB_TOKEN: ${{ github.token }}
@@ -21,10 +21,9 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
+          BLOCKS: ░ # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
