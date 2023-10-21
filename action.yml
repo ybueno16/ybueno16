@@ -8,7 +8,7 @@ inputs:
     default: ${{ github.token }}
     required: true
   WAKATIME_API_KEY:
-    description: "Your Wakatime/Wakapi/Hakatime API Key"
+    description: "Your Wakatime/Wakapi/waka_07a54a61-a9ae-4010-9061-a935337eb0e5"
     required: true
 
   # meta tweaks
