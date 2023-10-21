@@ -1,3 +1,5 @@
+FROM docker.io/python:3-slim
+
 ENV INPUT_GH_TOKEN \
     INPUT_WAKATIME_API_KEY \
     # meta
