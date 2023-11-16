@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Olá, eu sou Yuri Bueno<br>- 👀 Tenho interesse em Java, Flutter, Spring Boot<br>- 📚 Estou estudando Spring Boot e Flutter
+<br>- 👋 Olá, eu sou Yuri Bueno<br>- 👀 Tenho interesse em Java, Flutter, Spring Boot<br>- 📚 Estou estudando Spring Boot e Flutter
 
 
 ## 🌐 Socials:
