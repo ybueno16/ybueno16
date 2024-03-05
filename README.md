@@ -13,14 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ybueno16&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<details open>
-  <summary><h2>Watch my Coding Activity</h2></summary>
-
-  <p align="center">
-    <img  width="75%" height="400" title="Coding Activity Graph" src="https://wakatime.com/share/@ybueno16/12c1e5c2-0568-4302-94a0-5c77cfc1be78.svg">
-  </p>
-</details>
-
   ### 😂 Random Dev Meme
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
