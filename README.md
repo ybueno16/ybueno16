@@ -76,8 +76,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybueno16&show_icons=true&theme=radical&border_radius=10&cache_seconds=86400"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=ybueno16&theme=radical&hide_border=true"/>
+  <a href="https://github.com/ybueno16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ybueno16&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ybueno16's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=ybueno16&theme=radical&hide_border=true&cache_seconds=86400" alt="ybueno16's GitHub Streak" width="49%" />
 </p>
 
 ---
@@ -85,7 +87,9 @@
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybueno16&layout=compact&theme=radical&border_radius=10&cache_seconds=86400"/>
+  <a href="https://github.com/ybueno16">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ybueno16&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 ---
