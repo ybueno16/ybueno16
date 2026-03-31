@@ -1,75 +1,61 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px"> I'm Yuri Bueno
+  Yuri Bueno
 </h1>
 
 <h3 align="center">
-  ☕ Backend Java Developer | Spring Boot • Microservices • Scalable Systems
+  Backend Java Developer | Spring Boot | Microservices | REST APIs
 </h3>
 
 ---
 
-## 📌 About Me
+## 📌 Professional Summary
 
-- ☕ Backend Developer focused on **Java and Spring Boot**
-- 🚀 Experience building **REST APIs and production systems**
-- ⚙️ Strong background in **JPA/Hibernate and PostgreSQL**
-- 🔐 Experience with **Spring Security**
-- 🧪 Writing **unit tests with JUnit and Mockito**
-- 🧠 Applying **Clean Architecture, SOLID principles and design patterns**
-- 📈 Focused on **scalability, performance and maintainability**
+Backend Developer with experience in **Java and Spring Boot**, focused on building **scalable, secure and maintainable systems**.
 
----
-
-## 🧠 Focus Areas
-
-- Java Backend Development  
-- RESTful API Design  
-- Microservices Architecture  
-- Clean Architecture & SOLID Principles  
-- Domain Logic & Service Layer  
-- System Scalability & Performance  
-- Database Modeling (PostgreSQL)  
-- Backend Security  
+- Experience with **REST API development and system integrations**
+- Strong knowledge of **Spring Security (authentication and authorization)**
+- Solid experience with **JPA/Hibernate and PostgreSQL**
+- Familiar with **microservices architecture and distributed systems**
+- Focus on **clean architecture, SOLID principles and code quality**
+- Experience with **unit testing (JUnit, Mockito)**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Projects Experience
 
-### ☕ Backend Core
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="55"/>
-</p>
+### Secure Full Stack Application (React + Spring Boot)
 
-- Java (8+)  
-- Spring Boot  
-- REST APIs  
-- Service Layer & Business Logic  
+- Developed backend using **Spring Boot and Spring Security**
+- Implemented **authentication and authorization (JWT / RBAC)**
+- Built and consumed **REST APIs**
+- Structured application using **clean architecture principles**
+
+> Private repository
 
 ---
 
-### 🧱 Data & Persistence
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-</p>
+### Smart Budgeting System (Microservices + AI + WhatsApp Integration)
 
-- PostgreSQL  
-- JPA / Hibernate  
+- Designed system using **microservices architecture**
+- Implemented **communication between APIs (inter-service communication)**
+- Integrated with **AI services for automation**
+- Integrated with **WhatsApp API for user interaction**
+- Focus on **scalability, decoupling and real-world integrations**
 
----
-
-### 🔐 Testing & Security
-
-- JUnit  
-- Mockito  
-- Spring Security  
+> Private repository
 
 ---
 
-### ➕ Additional Experience
+## 🛠️ Technical Skills
 
-- Flutter (mobile development)  
-- Node.js / TypeScript (backend support)  
+**Languages:** Java  
+**Backend:** Spring Boot, REST APIs  
+**Database:** PostgreSQL, JPA, Hibernate  
+**Security:** Spring Security, JWT  
+**Testing:** JUnit, Mockito  
+**Architecture:** Microservices, Clean Architecture, SOLID  
+**Tools:** Git, GitHub  
+**Frontend:** React  
 
 ---
 
@@ -77,50 +63,17 @@
 
 <p align="center">
   <a href="https://github.com/ybueno16">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ybueno16&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="ybueno16's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ybueno16&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ybueno16&theme=radical&hide_border=true&cache_seconds=86400" alt="ybueno16's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ybueno16&theme=radical&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <a href="https://github.com/ybueno16">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ybueno16&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
----
-
-## 🚀 What I’m Currently Focused On
-
-- Building **scalable backend systems with Java and Spring Boot**
-- Improving **architecture and system design**
-- Deepening knowledge in **microservices and distributed systems**
-- Strengthening **testing and code quality practices**
-
----
-
-## 🔗 Connect with Me
+## 🔗 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-bueno-1bb89a1a4/" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40"/>
   </a>
 </p>
-
----
-
-## 🎮 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" />
-</p>
-
----
-
-## ⚡ Engineering Mindset
-
-💡 Focused on building **robust, scalable and maintainable backend systems**, ready for real-world challenges
