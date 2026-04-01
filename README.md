@@ -23,12 +23,11 @@ Backend Developer with experience in **Java and Spring Boot**, focused on buildi
 
 ## 🧩 Projects Experience
 
-### Secure Full Stack Application (React + Spring Boot)
+### Secure Application (Spring Boot)
 
 - Developed backend using **Spring Boot and Spring Security**
 - Implemented **authentication and authorization (JWT / RBAC)**
-- Built and consumed **REST APIs**
-- Structured application using **clean architecture principles**
+- Structured application using **Domain Driven Designs**
 
 > Private repository
 
