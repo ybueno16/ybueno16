@@ -10,36 +10,42 @@
 
 ## 📌 Professional Summary
 
-Backend Developer with experience in **Java and Spring Boot**, focused on building **scalable, secure and maintainable systems**.
+Backend Developer with experience in **Java and Spring Boot**, focused on building **scalable, secure, and maintainable systems**.
 
 - Experience with **REST API development and system integrations**
 - Strong knowledge of **Spring Security (authentication and authorization)**
-- Solid experience with **JPA/Hibernate and PostgreSQL**
+- Solid experience with **PostgreSQL** and data access
 - Familiar with **microservices architecture and distributed systems**
-- Focus on **clean architecture, SOLID principles and code quality**
+- Focus on **clean architecture, SOLID principles, and code quality**
 - Experience with **unit testing (JUnit, Mockito)**
 
 ---
 
 ## 🧩 Projects Experience
 
-### Secure Application (Spring Boot)
+### SecureApplication (Spring Boot) — Credential Management API
 
-- Developed backend using **Spring Boot and Spring Security**
-- Implemented **authentication and authorization (JWT / RBAC)**
-- Structured application using **Domain Driven Designs**
+- **Public repository:** [SecureApplication](https://github.com/ybueno16/SecureApplication)
+- Developed a **security-focused credential management system** using **Java 21** and **Spring Boot 3.4**
+- Designed with **Domain-Driven Design (DDD)** and strong code quality (Object Calisthenics)
+- Credentials are **encrypted per-field** using AES-256-GCM; encryption keys are derived per-session and wiped from memory after use
+- Utilizes **PBKDF2** for key derivation and **Argon2id** for password hashing—ensuring maximum resistance against brute-force and memory attacks
+- Authentication with **JWT (RS256, asymmetric keys)** and robust rate limiting
+- Clean, strong separation of concerns across interface, application, domain, and infrastructure layers (no JPA/Hibernate; hand-crafted SQL for auditability)
+- **API includes:** user registration/login, encrypted credential CRUD, secure reveal, and secure password generation endpoint
+- All sensitive actions are **audit-logged** asynchronously; no sensitive data is ever stored or logged
 
-> Private repository
+An open-source project for those seeking transparency, auditability, and enterprise-level security in credential management.
 
 ---
 
 ### Smart Budgeting System (Microservices + AI + WhatsApp Integration)
 
-- Designed system using **microservices architecture**
+- Designed the system using **microservices architecture**
 - Implemented **communication between APIs (inter-service communication)**
 - Integrated with **AI services for automation**
 - Integrated with **WhatsApp API for user interaction**
-- Focus on **scalability, decoupling and real-world integrations**
+- Focused on **scalability, decoupling, and real-world integrations**
 
 > Private repository
 
@@ -49,10 +55,10 @@ Backend Developer with experience in **Java and Spring Boot**, focused on buildi
 
 **Languages:** Java  
 **Backend:** Spring Boot, REST APIs  
-**Database:** PostgreSQL, JPA, Hibernate  
-**Security:** Spring Security, JWT  
+**Database:** PostgreSQL, NamedParameterJdbcTemplate  
+**Security:** Spring Security, JWT, PBKDF2, Argon2id, AES-GCM  
 **Testing:** JUnit, Mockito  
-**Architecture:** Microservices, Clean Architecture, SOLID  
+**Architecture:** Microservices, Clean Architecture, DDD, SOLID  
 **Tools:** Git, GitHub  
 **Frontend:** React  
 
